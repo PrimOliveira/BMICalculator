@@ -4,7 +4,7 @@ BMI Calculator was an app I developed to take my first steps with Android develo
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/result/BMI1.png" width="290"><img src="/result/BMI2.png" width="298">&emsp;<img src="/result/BMI3.png" width="293">
+<img src="/result/BMI1.png" width="251"><img src="/result/BMI2.png" width="258">&emsp;<img src="/result/BMI3.png" width="255">
 
 ## Technologies
 * Kotlin
